@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🤖🧠 Training ViT with Limited Data for Alzheimer's Disease Classification: an Empirical Study
-
+#article:https://papers.miccai.org/miccai-2024/paper/2724_paper.pdf
   Code implementation of the empirical study paper
 </div>
 
